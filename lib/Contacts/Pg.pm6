@@ -1,1 +1,1 @@
-unit Class Pg;
+unit class Pg;
